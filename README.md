@@ -1,2 +1,2 @@
 # DigiCrow
-uploaded till vendor/fontawesome-free
+uploaded till vendor
